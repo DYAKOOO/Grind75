@@ -8,6 +8,7 @@ class Solution1:
                 return True
             hashset.add(n)
         return False
+    
 
 # Example usage
 sol = Solution1()
